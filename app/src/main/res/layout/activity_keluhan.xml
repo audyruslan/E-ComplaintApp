@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".KeluhanActivity">
+
+        <LinearLayout
+            android:layout_marginTop="80dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hai,"
+                android:textColor="#0B5D72"
+                android:textAlignment="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:letterSpacing="0.03"/>
+            <TextView
+                android:id="@+id/tvNama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Audy Ruslan"
+                android:textColor="#0B5D72"
+                android:layout_marginLeft="10dp"
+                android:textAlignment="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:letterSpacing="0.03"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Laporkan Gangguan Listrik.?"
+            android:textColor="#0B5D72"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:letterSpacing="0.03"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:background="@color/colorWhite"
+            android:backgroundTint="@color/colorWhite"
+            android:hint="Masukkan Gangguan Listrik Anda"
+            app:boxBackgroundMode="outline"
+            app:boxStrokeColor="@color/purple_500">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/eTkeluhan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textMultiLine"
+                android:lines="6"
+                android:gravity="top"
+                android:scrollbars="vertical"
+                android:overScrollMode="always"
+                android:scrollbarStyle="insideInset"
+                android:scrollHorizontally="false"
+                android:backgroundTint="@color/colorWhite" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <Button
+            android:id="@+id/btnTambah"
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:background="@drawable/tombol"
+            android:text="Kirim Laporan"
+            android:textAllCaps="false"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#FFF"/>
+
+</LinearLayout>

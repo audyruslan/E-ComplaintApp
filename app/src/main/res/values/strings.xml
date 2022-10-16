@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E-Complaint</string>
+    <string name="title1">Selamat Datang</string>
+    <string name="title2">Layanan Keluhan</string>
+    <string name="title3">Online</string>
+    <string name="title4">Mobile App</string>
+    <string name="description1">Terimakasih telah menggunakan E-Complaint, Nikmati Kemudahan Layanan Kami dengan Layanan Tercepat.</string>
+    <string name="description2">Layanan Keluhan Listrik Anda, dengan Berbagai Fitur yang telah Kami sediakan Khusus Anda.</string>
+    <string name="description3">Keluhan Listrik Berbasis Online, tanpa Harus Datang ke Pusat Layanan Listrik.</string>
+    <string name="description4">Kini Hadir, Aplikasi E-Complaint semua Keluhan Anda, kini bisa dinimkati hanya Dalam Genggaman.</string>
+    <string name="disclamer">E-Complaint Merupakan Aplikasi Layanan Pengaduan Masyarakat terkait Gangguan Listrik, aplikasi ini merupakan SIMULASI untuk Bahan Ujian Seminar Hasil dan Tutup. Dilarang Memperjual belikan aplikasi ini. \n Hak Cipta Oleh .Banua-Software.com</string>
+    <string name="connect">Anda Tidak Terhubung Jaringan, Pastikan Koneksi Anda Terhbung untuk Memulai Aktivitas</string>
+    <string name="keluhanTerkirim">Gangguan Listrik Anda akan segera kami Tangani. \n Terima Kasih telah menggunakan Layanan Kami. \n Silahkan Menunggu, Teknisi Kami akan segera menuju lokasi Anda.</string>
+    <string name="keluhanDiterima">Keluhan Anda telah Terkirim. \n Terima Kasih telah menggunakan Layanan Kami. \n Silahkan Menunggu, Teknisi Kami akan segera menuju lokasi Anda.</string>
+</resources>

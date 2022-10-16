@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/drawable/button_success_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/drawable/button_success_dialog.xml" value="0.19583333333333333" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/drawable/circle_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/drawable/forget.xml" value="0.19583333333333333" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/drawable/grey_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/drawable/tombol.xml" value="0.19583333333333333" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/drawable/white_backgound.xml" value="0.19583333333333333" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_dashboard.xml" value="0.16666666666666666" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_detail_riwayat.xml" value="0.14666666666666667" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_keluhan.xml" value="0.1796875" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_keluhan_terkirim.xml" value="0.1685185185185185" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_no_interternet_dialog.xml" value="0.1796875" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_notif.xml" value="0.1" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_on_boarding.xml" value="0.1796875" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_profile.xml" value="0.39792387543252594" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/activity_riwayat.xml" value="0.17222222222222222" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/hapus_data.xml" value="0.1685185185185185" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/keluhan_success.xml" value="0.16666666666666666" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/layout_success_dialog.xml" value="0.1796875" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/list_view.xml" value="0.3333333333333333" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/page_ob.xml" value="0.1796875" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/ubah_password.xml" value="0.17222222222222222" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/layout/update_data.xml" value="0.16203703703703703" />
+        <entry key="..\:/Audy Punya/Yezkiel/E-Complaint/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17222222222222222" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
